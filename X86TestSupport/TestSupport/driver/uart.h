@@ -17,7 +17,7 @@ typedef enum {
 } uart_mode_t;
 
 /**
- * @brief UART word length constants
+ * @brief UART word length constanUART_DATA_5_BITSts
  */
 typedef enum {
     UART_DATA_5_BITS   = 0x0, /*!< word length: 5bits*/
